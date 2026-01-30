@@ -40,8 +40,6 @@ This project answers the following questions:
 
 ## 0. Data Preparation & Cleaning
 
-Notebook: `0_Data_Preparation_and_Cleaning.ipynb`
-
 This notebook builds a reproducible preprocessing pipeline that converts the raw job-postings dataset into a clean, analysis-ready file used across all downstream notebooks.
 
 What is done here:
@@ -58,6 +56,8 @@ Output file used in all other notebooks:
 - `job_postings_flat_cleaned.csv`
 
 Note: salary cleaning/filters and skills exploding (`explode`) are handled in the **analysis notebooks** where they are needed.
+
+View the notebook with detailed steps here: [0_Data_Preparation_and_Cleaning](0_Data_Preparation_and_Cleaning.ipynb).
 
 ---
 
