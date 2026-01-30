@@ -10,6 +10,8 @@ The dataset comes from [Luke Barousse's Python Course](https://lukebarousse.com/
 
 Using a set of Python notebooks, I answer practical questions around skill demand, how skills change over time, salary distributions, and which skills sit at the best intersection of **pay + opportunity**.
 
+A special thanks to [Luke Barousse](https://github.com/lukebarousse) and [Kelly Adams](https://github.com/kellyjadams) for creating the *Python for Data Analytics* course. Their structured, hands-on approach and real-world job-postings dataset made it possible to build strong Python foundations while working through an end-to-end analytics workflow (cleaning → EDA → analysis → visualization).
+
 ---
 
 # The Questions
